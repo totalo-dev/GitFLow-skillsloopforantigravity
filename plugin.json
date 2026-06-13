@@ -1,0 +1,4 @@
+{
+  "name": "GitFlow",
+  "description": "Skills for orchestrating automated git and quality control pipelines (Code -> Review -> Scan -> Approve -> Auto-fix -> Push)."
+}
