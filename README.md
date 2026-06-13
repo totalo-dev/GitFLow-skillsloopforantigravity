@@ -27,3 +27,7 @@ graph TD
 4. **interactive-approver**: Prompts the user to approve or reject the suggested modifications.
 5. **auto-fixer**: Applies approved fixes, formats codebase, and validates build/test stability.
 6. **git-flow-pusher**: Commits modifications with Conventional Commits rules and pushes them back to GitHub.
+
+## How to Use
+
+To use your agent with these skills, ask your agent to consider this repository as a group of skills and save it in its memory with any name or preserve this one. After the previous step, ask your agent in the following way: *"Use Skills GitFlow in this project immediately"*. In theory, it should work 😊
