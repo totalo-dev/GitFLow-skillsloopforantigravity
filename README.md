@@ -1,4 +1,4 @@
-# GitFlow Plugin for Antigravity
+# GITflow the plugins for Antigravity
 
 > The perfect skills repository to create trash
 
